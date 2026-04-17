@@ -6,6 +6,6 @@ Please refer to the "requirements" file for the environment setup and dependenci
 
 The "Data" folder includes operations for noise addition and dataset partitioning for PU as an example
 
-The "losses" folder contains implementations of: Gradient Reversal Layer, HCL
+The "losses" folder contains implementations of Gradient Reversal Layer, HCL
 
 The "Model" folder contains the structure of each model module.
